@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/SuperPortfolioTeam/",
+    "build": "vite build --base=/js_103_Oleksandr-Karnaushenko/",
     "preview": "vite preview"
   },
   "devDependencies": {
